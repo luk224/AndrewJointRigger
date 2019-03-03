@@ -18,15 +18,23 @@ hr.light {
   border-color: #fff;
 }
 
-a {
+.link {
   color: #F05F40;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
+  
+  
 }
+.aboutLink{
 
+  color: rgb(71, 255, 255);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
 a:hover {
-  color: #f05f40;
+  color: #861b02;
 }
 
 h1,
